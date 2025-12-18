@@ -1,0 +1,7 @@
+D:\Programming_Practice\CSharp-Practice\CSharp_Basic_Exercises\CSharp_Basic_Exercises\bin\Debug\CSharp_Basic_Exercises.exe.config
+D:\Programming_Practice\CSharp-Practice\CSharp_Basic_Exercises\CSharp_Basic_Exercises\bin\Debug\CSharp_Basic_Exercises.exe
+D:\Programming_Practice\CSharp-Practice\CSharp_Basic_Exercises\CSharp_Basic_Exercises\bin\Debug\CSharp_Basic_Exercises.pdb
+D:\Programming_Practice\CSharp-Practice\CSharp_Basic_Exercises\CSharp_Basic_Exercises\obj\Debug\CSharp_Basic_Exercises.csproj.AssemblyReference.cache
+D:\Programming_Practice\CSharp-Practice\CSharp_Basic_Exercises\CSharp_Basic_Exercises\obj\Debug\CSharp_Basic_Exercises.csproj.CoreCompileInputs.cache
+D:\Programming_Practice\CSharp-Practice\CSharp_Basic_Exercises\CSharp_Basic_Exercises\obj\Debug\CSharp_Basic_Exercises.exe
+D:\Programming_Practice\CSharp-Practice\CSharp_Basic_Exercises\CSharp_Basic_Exercises\obj\Debug\CSharp_Basic_Exercises.pdb
