@@ -31,7 +31,7 @@ namespace CSharp_Basic_Exercises.Helpers
         };
 
         //Math Operators
-        public static string[] MathOperations = {
+        public static string[] MathOperators = {
             "Addition (+)",
             "Subtraction (-)",
             "Multiplication (*)",

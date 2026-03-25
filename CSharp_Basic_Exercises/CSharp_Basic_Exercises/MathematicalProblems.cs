@@ -47,12 +47,12 @@ namespace CSharp_Basic_Exercises
 
             Console.Clear();
             Console.WriteLine("\nSelect an operation:");
-            for (int i = 0; i < Utils.MathOperations.Length; i++)
+            for (int i = 0; i < Utils.MathOperators.Length; i++)
             {
-                Console.WriteLine($"{i + 1}. {Utils.MathOperations[i]}");
+                Console.WriteLine($"{i + 1}. {Utils.MathOperators[i]}");
             }
 
-            int opChoice = InputValidators.GetValidatedChoice("Select operation", 1, Utils.MathOperations.Length);
+            int opChoice = InputValidators.GetValidatedChoice("Select operation", 1, Utils.MathOperators.Length);
 
             double[] numbers = new double[count];
             for(int i = 0; i < count; i++)

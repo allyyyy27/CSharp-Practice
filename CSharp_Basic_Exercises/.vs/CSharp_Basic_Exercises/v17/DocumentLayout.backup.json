@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Programming_Practice\\CSharp-Practice\\CSharp_Basic_Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|d:\\programming_practice\\csharp-practice\\csharp_basic_exercises\\csharp_basic_exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|solutionrelative:csharp_basic_exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|d:\\programming_practice\\csharp-practice\\csharp_basic_exercises\\csharp_basic_exercises\\helpers\\inputvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|solutionrelative:csharp_basic_exercises\\helpers\\inputvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|d:\\programming_practice\\csharp-practice\\csharp_basic_exercises\\csharp_basic_exercises\\mathematicalproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|solutionrelative:csharp_basic_exercises\\mathematicalproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|d:\\programming_practice\\csharp-practice\\csharp_basic_exercises\\csharp_basic_exercises\\helpers\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|D:\\Programming_Practice\\CSharp-Practice\\CSharp_Basic_Exercises\\csharp_basic_exercises\\helpers\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|solutionrelative:csharp_basic_exercises\\helpers\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|d:\\programming_practice\\csharp-practice\\csharp_basic_exercises\\csharp_basic_exercises\\helpers\\inputvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|solutionrelative:csharp_basic_exercises\\helpers\\inputvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|D:\\Programming_Practice\\CSharp-Practice\\CSharp_Basic_Exercises\\csharp_basic_exercises\\mathematicalproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|solutionrelative:csharp_basic_exercises\\mathematicalproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|D:\\Programming_Practice\\CSharp-Practice\\CSharp_Basic_Exercises\\csharp_basic_exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2627AFF-E240-4202-9017-9ED4447D5C0D}|CSharp_Basic_Exercises\\CSharp_Basic_Exercises.csproj|solutionrelative:csharp_basic_exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Utils.cs",
               "DocumentMoniker": "D:\\Programming_Practice\\CSharp-Practice\\CSharp_Basic_Exercises\\CSharp_Basic_Exercises\\Helpers\\Utils.cs",
               "RelativeDocumentMoniker": "CSharp_Basic_Exercises\\Helpers\\Utils.cs",
@@ -39,47 +39,44 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T07:57:42.086Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "InputValidators.cs",
               "DocumentMoniker": "D:\\Programming_Practice\\CSharp-Practice\\CSharp_Basic_Exercises\\CSharp_Basic_Exercises\\Helpers\\InputValidators.cs",
               "RelativeDocumentMoniker": "CSharp_Basic_Exercises\\Helpers\\InputValidators.cs",
               "ToolTip": "D:\\Programming_Practice\\CSharp-Practice\\CSharp_Basic_Exercises\\CSharp_Basic_Exercises\\Helpers\\InputValidators.cs",
               "RelativeToolTip": "CSharp_Basic_Exercises\\Helpers\\InputValidators.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwDAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T08:16:46.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MathematicalProblems.cs",
               "DocumentMoniker": "D:\\Programming_Practice\\CSharp-Practice\\CSharp_Basic_Exercises\\CSharp_Basic_Exercises\\MathematicalProblems.cs",
               "RelativeDocumentMoniker": "CSharp_Basic_Exercises\\MathematicalProblems.cs",
               "ToolTip": "D:\\Programming_Practice\\CSharp-Practice\\CSharp_Basic_Exercises\\CSharp_Basic_Exercises\\MathematicalProblems.cs",
               "RelativeToolTip": "CSharp_Basic_Exercises\\MathematicalProblems.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T04:34:01.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T04:34:01.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming_Practice\\CSharp-Practice\\CSharp_Basic_Exercises\\CSharp_Basic_Exercises\\Program.cs",
               "RelativeDocumentMoniker": "CSharp_Basic_Exercises\\Program.cs",
               "ToolTip": "D:\\Programming_Practice\\CSharp-Practice\\CSharp_Basic_Exercises\\CSharp_Basic_Exercises\\Program.cs",
               "RelativeToolTip": "CSharp_Basic_Exercises\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T02:57:54.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T02:57:54.325Z"
             }
           ]
         }
